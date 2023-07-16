@@ -1,5 +1,6 @@
 # Movies-recommender-system
-Description
+Description:
+
 The Movie Recommender System is a Python-based project that utilizes cosine similarity to provide movie recommendations to users. The system aims to suggest similar movies based on user input, helping users discover new films that match their preferences.
 
 ![image](https://github.com/SafreenaKH/Movies-recommender-system/assets/118797671/1fe76092-2346-4cc1-ba09-7b7679b25baa)
